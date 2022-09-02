@@ -33,6 +33,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 + 视频中的些许案例的本地实现
 
-+ 如有侵权，请联系我删除[邮箱](lxuegod@163.com)
-
   
